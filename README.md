@@ -1,12 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
-</div>
 
 ### Hi there 👋
 I'm Pietro Scurzio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-scurzio-053a9b252/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pietroscurzio/)
+
+</div>
 
 ## Mostly used
 
