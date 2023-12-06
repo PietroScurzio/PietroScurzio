@@ -38,7 +38,7 @@
   <h2>Projects</h2>
 
   <div>
-    <a href="link-to-repo">Project 1</a> - Short description.
+    <a href="[link-to-repo](https://github.com/PietroScurzio/FileOrganizer)">File Organizer</a> - Short description.
   </div>
   <div>
     <a href="link-to-repo">Project 2</a> - Short description.
