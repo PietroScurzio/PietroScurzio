@@ -37,9 +37,12 @@
 
   <h2>Projects</h2>
 
-  <div>
-    <a href="[link-to-repo](https://github.com/PietroScurzio/FileOrganizer)">File Organizer</a> - Short description.
-  </div>
+
+    
+  [File Organizer][file-organizer-link] - Organize files in your Downloads folder by categorizing them into specific folders.
+
+  [file-organizer-link]: https://github.com/PietroScurzio/FileOrganizer
+
   <div>
     <a href="link-to-repo">Project 2</a> - Short description.
   </div>
