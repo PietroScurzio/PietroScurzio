@@ -2,19 +2,11 @@
   <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
   <h1>Pietro Scurzio</h1>
   
-<a href="https://www.linkedin.com/in/pietro-scurzio-053a9b252/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/pietroscurzio/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-scurzio-053a9b252/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pietroscurzio/)
 </br>
+![Profile Views](https://komarev.com/ghpvc/?username=PietroScurzio&style=flat-square&color=blue)
 
-<a href="https://komarev.com/ghpvc/?username=PietroScurzio&style=flat-square&color=blue" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=PietroScurzio&style=flat-square&color=blue" alt="Profile Views">
-</a>
 
 </div>
 
