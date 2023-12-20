@@ -21,11 +21,6 @@
   <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
-  - Programming Languages: Python
-  - Web Technologies: HTML, CSS, React, Node.js, Express.js
-  - Database: MySQL
-  - Frameworks: Django
-</div><br/>
 
 
 <div style="display: inline_block" align="center"><br/>
